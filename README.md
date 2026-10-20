@@ -8,7 +8,7 @@
 
 ## ゲームプレイ
 
-![Gameplay](./Images/gameplay.gif)
+![Gameplay](./Images/Gameplay.gif)
 
 ## 開発環境
 
